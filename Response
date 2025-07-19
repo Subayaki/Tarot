@@ -1,0 +1,548 @@
+{
+  "The Fool": [
+    "The Fool: A new journey begins—embrace spontaneity and adventure.",
+    "The Fool: Unexpected opportunities will appear—trust your instincts.",
+    "The Fool: Take a leap of faith; fortune favors the brave.",
+    "The Fool: Naivety could lead to mistakes—stay mindful.",
+    "The Fool: Someone new will enter your life and change everything."
+  ],
+  "The Magician": [
+    "The Magician: You have the power to manifest your desires—act now.",
+    "The Magician: Focus and intention will unlock your potential.",
+    "The Magician: Be confident—your skills are more than enough.",
+    "The Magician: Someone manipulative may be influencing you.",
+    "The Magician: Now is the time to turn ideas into action."
+  ],
+  "The High Priestess": [
+    "The High Priestess: Trust your intuition—it knows the truth.",
+    "The High Priestess: Secrets may soon be revealed.",
+    "The High Priestess: Reflect inward before making a decision.",
+    "The High Priestess: A mysterious force guides your path.",
+    "The High Priestess: Hidden knowledge is within your reach."
+  ],
+  "The Empress": [
+    "The Empress: Creativity and abundance are blooming.",
+    "The Empress: Nurture what you love and it will flourish.",
+    "The Empress: A time of comfort, love, and connection is ahead.",
+    "The Empress: Nature holds healing for your soul.",
+    "The Empress: Fertility and growth surround your life right now."
+  ],
+  "The Emperor": [
+    "The Emperor: Take control—your leadership is needed.",
+    "The Emperor: Structure brings you strength and clarity.",
+    "The Emperor: A strong, protective figure influences your life.",
+    "The Emperor: Discipline will help you achieve your goals.",
+    "The Emperor: Stand firm—authority is on your side."
+  ],
+  "The Hierophant": [
+    "The Hierophant: Tradition and structure guide your current path.",
+    "The Hierophant: Seek wisdom from mentors or spiritual leaders.",
+    "The Hierophant: Follow the rules—this is not the time for rebellion.",
+    "The Hierophant: Spiritual growth is taking root within you.",
+    "The Hierophant: Be open to learning sacred or hidden knowledge."
+  ],
+  "The Lovers": [
+    "The Lovers: A powerful connection is forming or deepening.",
+    "The Lovers: Important choices will shape your emotional world.",
+    "The Lovers: Love requires honesty and vulnerability.",
+    "The Lovers: A union of opposites creates harmony.",
+    "The Lovers: Align your decisions with your heart’s truth."
+  ],
+  "The Chariot": [
+    "The Chariot: Victory is yours if you stay determined.",
+    "The Chariot: Control and focus will lead to success.",
+    "The Chariot: A journey or change in direction is coming.",
+    "The Chariot: Willpower and discipline are your allies.",
+    "The Chariot: Overcome obstacles with confidence and speed."
+  ],
+  "Strength": [
+    "Strength: Your inner courage will overcome outer challenges.",
+    "Strength: Patience and compassion are your greatest tools.",
+    "Strength: Tame your fears with gentle persistence.",
+    "Strength: A calm heart leads to powerful outcomes.",
+    "Strength: Now is the time to believe in your resilience."
+  ],
+  "The Hermit": [
+    "The Hermit: Seek solitude to find clarity.",
+    "The Hermit: A personal truth is waiting to be uncovered.",
+    "The Hermit: Withdraw from noise to listen to your soul.",
+    "The Hermit: Wisdom comes from inner reflection.",
+    "The Hermit: Take a pause—the answers lie within."
+  ],
+  "Wheel of Fortune": [
+    "Wheel of Fortune: A twist of fate is on its way.",
+    "Wheel of Fortune: What goes around comes around.",
+    "Wheel of Fortune: Expect sudden change—good or bad.",
+    "Wheel of Fortune: Luck is shifting—stay ready.",
+    "Wheel of Fortune: Destiny plays a key role in your next step."
+  ],
+  "Justice": [
+    "Justice: The truth will come to light—fairness will prevail.",
+    "Justice: Your actions are being weighed—act with integrity.",
+    "Justice: A decision will bring balance and accountability.",
+    "Justice: Karma is at work in your situation.",
+    "Justice: Seek the facts before passing judgment."
+  ],
+  "The Hanged Man": [
+    "The Hanged Man: Let go and see things from a new perspective.",
+    "The Hanged Man: Pause and surrender to the present moment.",
+    "The Hanged Man: A sacrifice may be necessary for growth.",
+    "The Hanged Man: Delay is divine—wait patiently.",
+    "The Hanged Man: Insight comes through stillness."
+  ],
+  "Death": [
+    "Death: An ending clears the way for transformation.",
+    "Death: Release the past—it no longer serves you.",
+    "Death: Rebirth follows this necessary transition.",
+    "Death: Something must end for something better to begin.",
+    "Death: A major change is approaching—embrace it."
+  ],
+  "Temperance": [
+    "Temperance: Balance and moderation are your allies.",
+    "Temperance: Harmony is possible—blend opposing forces.",
+    "Temperance: Take a calm and measured approach.",
+    "Temperance: Healing and peace are on the horizon.",
+    "Temperance: Patience will lead to perfect timing."
+  ],
+  "The Devil": [
+    "The Devil: Temptation or addiction may cloud your path.",
+    "The Devil: Face your shadows to regain your power.",
+    "The Devil: Break free from toxic cycles or influences.",
+    "The Devil: A desire is binding you more than you realize.",
+    "The Devil: You have the strength to reclaim your freedom."
+  ],
+  "The Tower": [
+    "The Tower: Expect sudden upheaval—truth cannot be avoided.",
+    "The Tower: A revelation will shake your foundations.",
+    "The Tower: Destruction clears the way for new growth.",
+    "The Tower: Let go—clinging to the old will only hurt more.",
+    "The Tower: A shocking truth will liberate you."
+  ],
+  "The Star": [
+    "The Star: Hope returns—trust in the future.",
+    "The Star: You are being guided toward healing and renewal.",
+    "The Star: Inspiration flows—express your true self.",
+    "The Star: Dreams are closer than they appear.",
+    "The Star: Your light will lead others in dark times."
+  ],
+  "The Moon": [
+    "The Moon: Illusions and uncertainty cloud your path.",
+    "The Moon: Trust your instincts over surface appearances.",
+    "The Moon: Secrets and emotions are rising to the surface.",
+    "The Moon: Things are not what they seem—move carefully.",
+    "The Moon: Listen to your dreams—they hold messages."
+  ],
+  "The Sun": [
+    "The Sun: Joy and success shine brightly ahead.",
+    "The Sun: Your true self is radiating confidence and love.",
+    "The Sun: A moment of clarity brings warmth and peace.",
+    "The Sun: Celebrate life—good fortune is on your side.",
+    "The Sun: Share your happiness—it multiplies when given."
+  ],
+  "Judgement": [
+    "Judgement: A major awakening is at hand.",
+    "Judgement: Reflect on past actions—they shape your future.",
+    "Judgement: A second chance will be offered—rise to meet it.",
+    "Judgement: Release guilt—renewal begins with forgiveness.",
+    "Judgement: Embrace your calling—it’s time to rise."
+  ],
+  "The World": [
+    "The World: Completion brings a sense of fulfillment.",
+    "The World: You’re exactly where you need to be.",
+    "The World: Celebrate your achievements—they were hard-earned.",
+    "The World: A cycle ends and a new one begins.",
+    "The World: Unity and wholeness define your path now."
+  ],
+  "Ace of Wands": [
+    "Ace of Wands: A spark of inspiration ignites—start something bold.",
+    "Ace of Wands: Creative energy surges—act before it fades.",
+    "Ace of Wands: A fresh project or passion calls for your fire.",
+    "Ace of Wands: Say yes to the idea that excites you most.",
+    "Ace of Wands: Momentum begins now—fan the flame."
+  ],
+  "Two of Wands": [
+    "Two of Wands: You’re planning the next big step—think globally.",
+    "Two of Wands: A choice between comfort and adventure appears.",
+    "Two of Wands: Partnership or expansion can scale your vision.",
+    "Two of Wands: Map your strategy; action follows soon.",
+    "Two of Wands: Look beyond your current limits for success."
+  ],
+  "Three of Wands": [
+    "Three of Wands: Your efforts begin to return—watch for results.",
+    "Three of Wands: Expansion, travel, or growth is on the horizon.",
+    "Three of Wands: You’ve launched well—now anticipate and adapt.",
+    "Three of Wands: Collaboration across distance brings reward.",
+    "Three of Wands: Stay patient—what you set in motion is coming back."
+  ],
+  "Four of Wands": [
+    "Four of Wands: Celebrate milestones—community lifts you higher.",
+    "Four of Wands: A reunion or event brings joy and stability.",
+    "Four of Wands: Your foundation is strong—enjoy it.",
+    "Four of Wands: Shared success strengthens bonds.",
+    "Four of Wands: Pause to appreciate how far you’ve come."
+  ],
+  "Five of Wands": [
+    "Five of Wands: Competition heats up—channel it constructively.",
+    "Five of Wands: Minor conflicts mask deeper tensions—listen.",
+    "Five of Wands: Chaos sparks innovation—test your skills.",
+    "Five of Wands: Not every argument deserves your energy.",
+    "Five of Wands: Friendly rivalry can sharpen your edge."
+  ],
+  "Six of Wands": [
+    "Six of Wands: Victory! Recognition and praise are incoming.",
+    "Six of Wands: Your work is being noticed—stand tall.",
+    "Six of Wands: Celebrate wins without arrogance.",
+    "Six of Wands: Lead by example; others look to you now.",
+    "Six of Wands: Success opens doors to the next challenge."
+  ],
+  "Seven of Wands": [
+    "Seven of Wands: Defend your ground—you’ve earned this position.",
+    "Seven of Wands: Pushback means you’re doing something that matters.",
+    "Seven of Wands: Stay firm under pressure; conviction wins.",
+    "Seven of Wands: Clarify boundaries before the battle begins.",
+    "Seven of Wands: Persistence turns resistance into respect."
+  ],
+  "Eight of Wands": [
+    "Eight of Wands: Things move fast—act quickly and stay focused.",
+    "Eight of Wands: Messages, travel, or rapid progress is incoming.",
+    "Eight of Wands: Momentum is on your side—don’t stall.",
+    "Eight of Wands: Clear communication speeds success.",
+    "Eight of Wands: Expect sudden movement after a delay."
+  ],
+  "Nine of Wands": [
+    "Nine of Wands: You’re tired but close to breakthrough—hold on.",
+    "Nine of Wands: Protect what you’ve built without closing off.",
+    "Nine of Wands: Resilience is your superpower right now.",
+    "Nine of Wands: Past wounds trigger caution—heal, don’t hide.",
+    "Nine of Wands: One last push will carry you through."
+  ],
+  "Ten of Wands": [
+    "Ten of Wands: You’re carrying too much—redistribute the load.",
+    "Ten of Wands: Responsibility has stacked up—ask for help.",
+    "Ten of Wands: Completion is near, but burnout looms.",
+    "Ten of Wands: Simplify your priorities to move forward.",
+    "Ten of Wands: Delegation turns burden into progress."
+  ],
+  "Page of Wands": [
+    "Page of Wands: An exciting message sparks curiosity.",
+    "Page of Wands: Experiment—play fuels discovery.",
+    "Page of Wands: A youthful or creative person inspires you.",
+    "Page of Wands: Explore before committing—this is a test phase.",
+    "Page of Wands: Say ‘yes’ to adventure and learning."
+  ],
+  "Knight of Wands": [
+    "Knight of Wands: Charge ahead—but watch for reckless jumps.",
+    "Knight of Wands: Passion drives you—direct it wisely.",
+    "Knight of Wands: Travel, change, or a bold move is near.",
+    "Knight of Wands: Charm opens doors; consistency keeps them open.",
+    "Knight of Wands: Follow the fire—but have a plan to land."
+  ],
+  "Queen of Wands": [
+    "Queen of Wands: Confidence and charisma attract allies.",
+    "Queen of Wands: Express your creativity fearlessly.",
+    "Queen of Wands: You can nurture and lead at the same time.",
+    "Queen of Wands: Step into visibility; your energy inspires.",
+    "Queen of Wands: Magnetism draws the right people to you."
+  ],
+  "King of Wands": [
+    "King of Wands: Lead with vision—others will follow.",
+    "King of Wands: Entrepreneurial fire favors bold strategy.",
+    "King of Wands: Empower your team; greatness scales through others.",
+    "King of Wands: Stay passionate, but manage the big picture.",
+    "King of Wands: Own your role as a creator and catalyst."
+  ],
+  "Ace of Cups": [
+    "Ace of Cups: Emotional renewal—love overflows.",
+    "Ace of Cups: A new relationship or deep bond begins.",
+    "Ace of Cups: Open your heart; healing is available.",
+    "Ace of Cups: Creative expression pours freely now.",
+    "Ace of Cups: Let kindness ripple outward—it returns."
+  ],
+  "Two of Cups": [
+    "Two of Cups: Mutual attraction—partnership deepens.",
+    "Two of Cups: Emotional balance grows through connection.",
+    "Two of Cups: A truce or reconciliation is possible.",
+    "Two of Cups: Share openly; you’ll be met in kind.",
+    "Two of Cups: Union built on respect leads to harmony."
+  ],
+  "Three of Cups": [
+    "Three of Cups: Celebrate with friends—community heals.",
+    "Three of Cups: Shared joy multiplies abundance.",
+    "Three of Cups: Reunions bring emotional uplift.",
+    "Three of Cups: Creative collaboration thrives now.",
+    "Three of Cups: Make space for laughter and gratitude."
+  ],
+  "Four of Cups": [
+    "Four of Cups: Emotional withdrawal—what are you ignoring?",
+    "Four of Cups: A new offer goes unnoticed in apathy.",
+    "Four of Cups: Pause and reassess what truly satisfies.",
+    "Four of Cups: Discontent masks an inner call to change.",
+    "Four of Cups: Look up—the opportunity is right there."
+  ],
+  "Five of Cups": [
+    "Five of Cups: Grief is real—allow yourself to feel it.",
+    "Five of Cups: Loss hurts, but not all is gone—turn around.",
+    "Five of Cups: Dwelling on regret blocks new love.",
+    "Five of Cups: Release what spilled; cherish what remains.",
+    "Five of Cups: Healing begins when you accept the past."
+  ],
+  "Six of Cups": [
+    "Six of Cups: Nostalgia brings comfort and perspective.",
+    "Six of Cups: Reconnect with innocence and play.",
+    "Six of Cups: Someone from your past may reappear.",
+    "Six of Cups: Old memories offer emotional wisdom.",
+    "Six of Cups: Share kindness freely—childlike joy heals."
+  ],
+  "Seven of Cups": [
+    "Seven of Cups: So many options—choose with clarity, not fantasy.",
+    "Seven of Cups: Illusions tempt you—ground yourself first.",
+    "Seven of Cups: Dreams are valid, but prioritize.",
+    "Seven of Cups: Don’t let indecision dissolve momentum.",
+    "Seven of Cups: One choice leads to growth—find it."
+  ],
+  "Eight of Cups": [
+    "Eight of Cups: Walk away from what no longer feeds your heart.",
+    "Eight of Cups: Leaving brings emotional freedom.",
+    "Eight of Cups: A spiritual quest pulls you forward.",
+    "Eight of Cups: You’ve outgrown this situation—move on.",
+    "Eight of Cups: Seek deeper meaning beyond comfort."
+  ],
+  "Nine of Cups": [
+    "Nine of Cups: Wish granted—enjoy personal satisfaction.",
+    "Nine of Cups: Emotional fulfillment is within reach.",
+    "Nine of Cups: You deserve to enjoy what you’ve achieved.",
+    "Nine of Cups: Gratitude attracts even more blessings.",
+    "Nine of Cups: Treat yourself—joy is part of the path."
+  ],
+  "Ten of Cups": [
+    "Ten of Cups: Emotional harmony—family or chosen family thrives.",
+    "Ten of Cups: Long-term happiness is possible—nurture it.",
+    "Ten of Cups: A dream of belonging comes true.",
+    "Ten of Cups: Peace at home supports all other goals.",
+    "Ten of Cups: Love shared widely becomes legacy."
+  ],
+  "Page of Cups": [
+    "Page of Cups: A sweet message or apology arrives.",
+    "Page of Cups: Let imagination and emotion guide you.",
+    "Page of Cups: Unexpected feelings surface—stay open.",
+    "Page of Cups: A creative spark comes from the heart.",
+    "Page of Cups: Playful love energy enters your space."
+  ],
+  "Knight of Cups": [
+    "Knight of Cups: Romantic or idealistic energy approaches.",
+    "Knight of Cups: Follow your heart’s quest, even if impractical.",
+    "Knight of Cups: A proposal—creative, emotional, or romantic—emerges.",
+    "Knight of Cups: Lead with empathy; it will open doors.",
+    "Knight of Cups: Bring beauty and meaning into action."
+  ],
+  "Queen of Cups": [
+    "Queen of Cups: Emotional intuition guides wise support.",
+    "Queen of Cups: Hold space for others—and yourself.",
+    "Queen of Cups: Compassion brings healing waters.",
+    "Queen of Cups: Listen beneath words; feelings speak louder.",
+    "Queen of Cups: Your empathy is a gift—protect it with boundaries."
+  ],
+  "King of Cups": [
+    "King of Cups: Emotional maturity steadies the storm.",
+    "King of Cups: Lead with compassion and calm authority.",
+    "King of Cups: Balance heart and head in decision-making.",
+    "King of Cups: Offer support without losing your center.",
+    "King of Cups: You can hold deep feelings and still act wisely."
+  ],
+  "Ace of Swords": [
+    "Ace of Swords: A breakthrough idea cuts through confusion.",
+    "Ace of Swords: Speak the truth—clarity begins change.",
+    "Ace of Swords: Mental focus gives you the edge.",
+    "Ace of Swords: Significant communication or decision arrives.",
+    "Ace of Swords: Victory through logic and honesty."
+  ],
+  "Two of Swords": [
+    "Two of Swords: You’re at a stalemate—remove the blindfold.",
+    "Two of Swords: Avoidance delays the inevitable choice.",
+    "Two of Swords: Balance facts and feelings before deciding.",
+    "Two of Swords: Peacekeeping isn’t always neutral—choose.",
+    "Two of Swords: When in doubt, seek more information."
+  ],
+  "Three of Swords": [
+    "Three of Swords: Heartbreak or painful truth surfaces.",
+    "Three of Swords: Release betrayal—healing follows honesty.",
+    "Three of Swords: Grief clears space for recovery.",
+    "Three of Swords: Words may wound—choose them carefully.",
+    "Three of Swords: Face the hurt; denial prolongs it."
+  ],
+  "Four of Swords": [
+    "Four of Swords: Rest—your mind needs recovery.",
+    "Four of Swords: Step back to regain clarity.",
+    "Four of Swords: Meditation calms the chaos.",
+    "Four of Swords: Pause before taking further action.",
+    "Four of Swords: Healing sleep brings new insight."
+  ],
+  "Five of Swords": [
+    "Five of Swords: Winning at all costs isolates you.",
+    "Five of Swords: Conflict leaves fallout—repair what you can.",
+    "Five of Swords: Consider whether this fight was worth it.",
+    "Five of Swords: Pride may have led to unnecessary loss.",
+    "Five of Swords: Walk away before words cut too deep."
+  ],
+  "Six of Swords": [
+    "Six of Swords: Transition—move toward calmer waters.",
+    "Six of Swords: Healing through distance or retreat.",
+    "Six of Swords: A guided change helps you leave trouble behind.",
+    "Six of Swords: Travel or relocation may ease tension.",
+    "Six of Swords: Gradual recovery is underway—trust the journey."
+  ],
+  "Seven of Swords": [
+    "Seven of Swords: Something hidden—double-check motives and facts.",
+    "Seven of Swords: Strategy beats brute force today.",
+    "Seven of Swords: A secret plan may succeed—but at what cost?",
+    "Seven of Swords: Beware deception—yours or someone else’s.",
+    "Seven of Swords: Take what’s needed and leave the rest."
+  ],
+  "Eight of Swords": [
+    "Eight of Swords: You feel trapped—but the exit is within reach.",
+    "Eight of Swords: Limiting thoughts create the cage.",
+    "Eight of Swords: Ask for help—outside perspective frees you.",
+    "Eight of Swords: Remove one fear at a time to move forward.",
+    "Eight of Swords: Your mind is more bound than your reality."
+  ],
+  "Nine of Swords": [
+    "Nine of Swords: Anxiety magnifies worries in the night.",
+    "Nine of Swords: Talk about what’s haunting you—relief follows.",
+    "Nine of Swords: Fear feeds itself; break the cycle.",
+    "Nine of Swords: Guilt or regret needs processing, not punishment.",
+    "Nine of Swords: Name your fears and they lose power."
+  ],
+  "Ten of Swords": [
+    "Ten of Swords: It’s over—accept the ending and rise anew.",
+    "Ten of Swords: You’ve hit rock bottom; recovery begins here.",
+    "Ten of Swords: Release the story of betrayal—move on.",
+    "Ten of Swords: A painful cycle is finally complete.",
+    "Ten of Swords: Let go; dawn follows this dark night."
+  ],
+  "Page of Swords": [
+    "Page of Swords: Curiosity sparks—ask questions and learn.",
+    "Page of Swords: Watch for rumors—verify before reacting.",
+    "Page of Swords: New studies, research, or ideas call you.",
+    "Page of Swords: Your words matter—communicate clearly.",
+    "Page of Swords: Stay alert; information is power."
+  ],
+  "Knight of Swords": [
+    "Knight of Swords: Charge forward with conviction—but think first.",
+    "Knight of Swords: Bold communication changes everything.",
+    "Knight of Swords: Act quickly on a clear truth.",
+    "Knight of Swords: Debate sharpens understanding—stay respectful.",
+    "Knight of Swords: Don’t burn bridges in your rush to win."
+  ],
+  "Queen of Swords": [
+    "Queen of Swords: Discernment cuts through emotional fog.",
+    "Queen of Swords: Speak honestly, even if it’s hard.",
+    "Queen of Swords: Protect your boundaries with clarity.",
+    "Queen of Swords: Wisdom born of experience guides you.",
+    "Queen of Swords: Detach to see the truth—but don’t freeze out love."
+  ],
+  "King of Swords": [
+    "King of Swords: Lead with intellect, fairness, and ethics.",
+    "King of Swords: Make the call—logic supports you.",
+    "King of Swords: Expert advice or legal clarity may help.",
+    "King of Swords: Structure your thoughts before speaking.",
+    "King of Swords: Truth and strategy win the day."
+  ],
+  "Ace of Pentacles": [
+    "Ace of Pentacles: A new financial or material opportunity appears.",
+    "Ace of Pentacles: Plant the seed—long-term growth follows.",
+    "Ace of Pentacles: Stability begins with one grounded step.",
+    "Ace of Pentacles: Investment—time, money, or energy—pays off.",
+    "Ace of Pentacles: Nurture the offer; it can become abundance."
+  ],
+  "Two of Pentacles": [
+    "Two of Pentacles: You’re juggling—prioritize to keep balance.",
+    "Two of Pentacles: Financial or schedule flexibility is needed.",
+    "Two of Pentacles: Adapt quickly; change is constant.",
+    "Two of Pentacles: Playful balance eases stress.",
+    "Two of Pentacles: Keep your eye on cash flow swings."
+  ],
+  "Three of Pentacles": [
+    "Three of Pentacles: Teamwork builds something lasting.",
+    "Three of Pentacles: Your skills are valued in collaboration.",
+    "Three of Pentacles: Seek feedback—craft improves with input.",
+    "Three of Pentacles: Shared goals multiply results.",
+    "Three of Pentacles: Apprenticeship or mentorship boosts mastery."
+  ],
+  "Four of Pentacles": [
+    "Four of Pentacles: You’re holding tight—protect or release?",
+    "Four of Pentacles: Financial caution is wise—but don’t suffocate flow.",
+    "Four of Pentacles: Security matters; where does fear control you?",
+    "Four of Pentacles: Share selectively; resources must circulate.",
+    "Four of Pentacles: Stability is good—rigidity is not."
+  ],
+  "Five of Pentacles": [
+    "Five of Pentacles: Hardship feels isolating—ask for support.",
+    "Five of Pentacles: Financial or health strain needs attention.",
+    "Five of Pentacles: Help is nearby—don’t suffer alone.",
+    "Five of Pentacles: Shift from scarcity thinking to resourcefulness.",
+    "Five of Pentacles: You are not abandoned; reach out."
+  ],
+  "Six of Pentacles": [
+    "Six of Pentacles: Generosity flows—give or receive with grace.",
+    "Six of Pentacles: Balance charity with healthy boundaries.",
+    "Six of Pentacles: Resources redistribute—fair exchange matters.",
+    "Six of Pentacles: Support arrives when most needed.",
+    "Six of Pentacles: Invest kindness; it compounds."
+  ],
+  "Seven of Pentacles": [
+    "Seven of Pentacles: Pause and review—are your efforts paying off?",
+    "Seven of Pentacles: Growth is slow but steady—stay patient.",
+    "Seven of Pentacles: Re-evaluate your investment strategy.",
+    "Seven of Pentacles: Delayed results don’t mean failure.",
+    "Seven of Pentacles: Tend the garden; harvest is coming."
+  ],
+  "Eight of Pentacles": [
+    "Eight of Pentacles: Skill grows through focused practice.",
+    "Eight of Pentacles: Mastery comes from repetition—keep at it.",
+    "Eight of Pentacles: Study, train, refine—craft matters.",
+    "Eight of Pentacles: Your dedication improves long-term income.",
+    "Eight of Pentacles: Small improvements add up to excellence."
+  ],
+  "Nine of Pentacles": [
+    "Nine of Pentacles: Self-sufficiency and comfort reward your work.",
+    "Nine of Pentacles: Enjoy the fruits of your discipline.",
+    "Nine of Pentacles: Independence tastes sweet—protect it.",
+    "Nine of Pentacles: Beauty and luxury nourish your spirit now.",
+    "Nine of Pentacles: Your efforts create lasting security."
+  ],
+  "Ten of Pentacles": [
+    "Ten of Pentacles: Legacy wealth—think long-term stability.",
+    "Ten of Pentacles: Family resources and traditions support you.",
+    "Ten of Pentacles: Investments mature—plan succession.",
+    "Ten of Pentacles: Community or family property matters arise.",
+    "Ten of Pentacles: Build structures that outlive you."
+  ],
+  "Page of Pentacles": [
+    "Page of Pentacles: A study, job, or money opportunity appears.",
+    "Page of Pentacles: Learn the basics—skills will grow.",
+    "Page of Pentacles: Practical curiosity leads to gain.",
+    "Page of Pentacles: Plant a small habit; it yields results.",
+    "Page of Pentacles: News about finances or schooling arrives."
+  ],
+  "Knight of Pentacles": [
+    "Knight of Pentacles: Slow and steady effort wins reliability.",
+    "Knight of Pentacles: Stick to the plan—consistency pays off.",
+    "Knight of Pentacles: Attend to details; quality matters.",
+    "Knight of Pentacles: Routine builds wealth and trust.",
+    "Knight of Pentacles: Patience beats rushing in practical work."
+  ],
+  "Queen of Pentacles": [
+    "Queen of Pentacles: Nurture body, home, and finances with care.",
+    "Queen of Pentacles: Practical wisdom creates comfort.",
+    "Queen of Pentacles: You can provide and still receive support.",
+    "Queen of Pentacles: Grounded compassion makes abundance real.",
+    "Queen of Pentacles: Tend your space—it reflects your energy."
+  ],
+  "King of Pentacles": [
+    "King of Pentacles: Long-term success through discipline and strategy.",
+    "King of Pentacles: Lead materially—steward resources wisely.",
+    "King of Pentacles: Security grows when you invest responsibly.",
+    "King of Pentacles: Stable leadership attracts prosperity.",
+    "King of Pentacles: You’re building something durable and profitable."
+  ]
+}
